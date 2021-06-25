@@ -1,0 +1,106 @@
+{
+  "description": "项目配置文件",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": true,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "enableEngineNative": false,
+    "bundle": false,
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "userConfirmedBundleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "minifyWXSS": true,
+    "useApiHostProcess": false
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.5.0",
+  "appid": "wx749d2a22c6ad9804",
+  "projectname": "%E5%95%86%E5%9F%8E",
+  "debugOptions": {
+    "hidedInDevtools": []
+  },
+  "isGameTourist": false,
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "currentL": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "search",
+          "pathName": "pages/search/search",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "more",
+          "pathName": "pages/more/more",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "details",
+          "pathName": "pages/details/details",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "pro",
+          "pathName": "pages/prodtype/prodType",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "cart",
+          "pathName": "pages/cart/cart",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "my",
+          "pathName": "pages/ucenter/ucenter"
+        }
+      ]
+    }
+  }
+}
